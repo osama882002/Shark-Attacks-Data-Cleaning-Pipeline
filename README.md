@@ -30,7 +30,7 @@ shark_attacks_project/
 ```
 
 # Pipeline Stages
-
+```text
 1- Load
 2- Shape
 3- Column Names
@@ -38,6 +38,7 @@ shark_attacks_project/
 5- Nulls
 6- Invalid Values
 7- Validate
+```
 
 # Features
 
