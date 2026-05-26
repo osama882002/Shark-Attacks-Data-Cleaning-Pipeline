@@ -14,15 +14,6 @@ shark_attacks_project/
 ├── notebooks/
 │   └── 01_shark_attacks_pipeline.ipynb
 │
-├── src/
-│   ├── load.py
-│   ├── clean.py
-│   ├── validate.py
-│   └── analyze.py
-│
-├── output/
-├── logs/
-│   └── pipeline.log
 │
 ├── requirements.txt
 ├── .gitignore
