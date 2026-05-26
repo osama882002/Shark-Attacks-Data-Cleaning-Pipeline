@@ -1,5 +1,11 @@
 data_row/
 tamp/
 venv/
-__pycache__/
+# تجاهل ملفات الحفظ التلقائي الخاصة بـ Jupyter
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# تجاهل ملفات السجلات والمتابعة
+*.log
+logs/
+__pycache__
