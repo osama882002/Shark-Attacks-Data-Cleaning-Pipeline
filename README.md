@@ -27,6 +27,7 @@ shark_attacks_project/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 # Pipeline Stages
 
